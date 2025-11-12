@@ -1,81 +1,81 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
+            "imgPath": "IMGS/CarnationRender.png",
+            "imgName": "Carnation",
+            "description": "Deceiver",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
+            "imgPath": "IMGS/SlightRender.webp",
+            "imgName": "Slight",
+            "description": "Addiction",
             "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
+            "imgPath": "IMGS/SlugfishRender.webp",
+            "imgName": "Slugfish",
             "description": "Eiffel Tower",
             "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
+            "imgPath": "IMGS/ElkmanRender.webp",
+            "imgName": "Elkman",
+            "description": "Greed",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
+            "imgPath": "IMGS/Sorrow.png",
+            "imgName": "Sorrow",
+            "description": "Self-Hatred",
             "date": "01/05/2016"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
+            "imgPath": "IMGS/DozerSprite.webp",
+            "imgName": "Dozer",
+            "description": "Pride",
             "date": "01/06/2016"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
+            "imgPath": "IMGS/Litany.webp",
+            "imgName": "Litany",
+            "description": "Fear of Judgement",
             "date": "01/07/2016"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
+            "imgPath": "IMGS/Rue_static.webp",
+            "imgName": "Rue",
+            "description": "Unforgiveness",
             "date": "01/08/2016"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
+            "imgPath": "IMGS/Doppelrender2.webp",
+            "imgName": "Doppel",
+            "description": "Past Mistakes",
             "date": "01/09/2016"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
+            "imgPath": "IMGS/Transparent_Kookoo.webp",
+            "imgName": "KooKoo",
+            "description": "Unkept Promises",
             "date": "01/10/2016"
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
+            "imgPath": "IMGS/Ire.webp",
+            "imgName": "Ire",
+            "description": "Wrath",
             "date": "01/11/2016"
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
+            "imgPath": "IMGS/JoeyRender.webp",
+            "imgName": "Doombringer",
+            "description": "Spectator",
             "date": "01/12/2016"
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
+            "imgPath": "IMGS/GoatmanRender.webp",
+            "imgName": "Goatman",
+            "description": "Sloth",
             "date": "01/13/2016"
         }
   ]
