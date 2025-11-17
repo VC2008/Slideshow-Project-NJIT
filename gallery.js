@@ -1,6 +1,6 @@
 let mCurrentIndex = 0 // Tracks the current image index
-let mImages = [] // Array to hold GalleryImage objects
-const mUrl = 'https://your-json-url.com' // Replace with actual JSON URL
+let mImages = []; // Array to hold GalleryImage objects
+const mUrl = 'images.json'; // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
@@ -37,8 +37,8 @@ function fetchJSON() {
 // Display current photo and metadata
 function swapPhoto() {
   let img = mImages[mCurrentIndex];
-  $('#photo').attr('src', img.imgCat);
-  $('.location').text('Location: ' + img.imgbreed); 
+  $('#photo').attr('src', img.imgPath);
+  $('.name').text('Location: ' + img.imgName); 
   $('.description').text('Description: ' + img.description);
   $('.date').text('Date: ' + img.date);
 }
